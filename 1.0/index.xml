@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mega Session 2021 Projects on Electronics Club, IIT Madras</title>
+    <link>/1.0/</link>
+    <description>Recent content in Mega Session 2021 Projects on Electronics Club, IIT Madras</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Oct 2019 11:22:16 +0600</lastBuildDate><atom:link href="/1.0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fun IMU Session</title>
+      <link>/1.0/post-4/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>/1.0/post-4/</guid>
+      <description>Taught the working of MPU6050 IMU sensor and physics behind in depth. Explained the I2C communication protocol.With I2C, we obtained the accelerometer, gyroscope, temperature data from the sensor.</description>
+    </item>
+    
+    <item>
+      <title>IoT Weather Station</title>
+      <link>/1.0/post-3/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>/1.0/post-3/</guid>
+      <description>Introduced to the Internet of Things(IOT) , how it works and where it is used. Using temperature sensors(LM35) we explained about the temperature sensor.</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning on MCU</title>
+      <link>/1.0/post-1/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>/1.0/post-1/</guid>
+      <description>Participants explored the basics of Machine Learning. Explained in depth about Random Forest Classifier ML algorithm. Built a Harry Potter Magic Wand project as the end project.</description>
+    </item>
+    
+    <item>
+      <title>Python for embedded system</title>
+      <link>/1.0/post-2/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>/1.0/post-2/</guid>
+      <description>Introduced the participants to the basics of MicroPython. Explained the working of OLED, Joystick and Buzzer. Ping Pong Arcade game was built with the help of the above concepts.</description>
+    </item>
+    
+  </channel>
+</rss>
